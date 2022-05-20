@@ -15,6 +15,7 @@ Generate Template
 .. note::
 
    กรณีไม่ได้ตั้งค่าหน้ากระดาษก่อนจะมีข้อความแจ้งเตือน Please Change Paper Size to A4
+   และไม่สามารถทำการ Generate template บน Microsoft Word Online ได้
 
    .. figure:: /images/gen02.png
         :align: center
@@ -37,3 +38,4 @@ Generate Template
 
 .. figure:: /images/gen05.png
     :align: center
+   
