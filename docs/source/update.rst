@@ -21,6 +21,10 @@ Validate Template
 .. figure:: /images/validate02.png
     :align: center
 
+.. note::
+
+   ไม่สามารถ Validate บน WordOnline ได้
+
 Save to Cloud
 -------------
 
