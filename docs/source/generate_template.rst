@@ -40,6 +40,5 @@ Generate Template
 .. figure:: /images/gen05.png
     :align: center
 
-.. note::
 
-   ไม่สามารถ Generate template บน WordOnline ได้
+
