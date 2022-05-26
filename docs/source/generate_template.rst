@@ -29,7 +29,9 @@ Generate Template
 
 .. figure:: /images/gen04.png
     :align: center
+.. note::
 
+   ไม่สามารถ Generate template บน WordOnline ได้
 การตั้งค่าภาษาเขียนเล่ม
 ------------------
 
@@ -37,3 +39,6 @@ Generate Template
 
 .. figure:: /images/gen05.png
     :align: center
+
+
+
