@@ -7,6 +7,8 @@ Generate Template
 #. ไปที่ Layout
 #. เลือก Size 
 #. เลือกขนาดกระดาษเป็น A4
+#. ไปที่ Margins เลือก custom margins
+#. ตั้งค่าขอบกระดาษเป็นดังนี้ ซ้าย 1.5 นิ้ว (3.81 ซม.), บน 1.5 นิ้ว (3.81 ซม.), ขวา 1 นิ้ว (2.54 ซม.), ล่าง 1 นิ้ว (2.54 ซม.)
 #. กด Generate Template
 
     .. figure:: /images/gen01.png
@@ -14,7 +16,7 @@ Generate Template
 
 .. note::
 
-   กรณีไม่ได้ตั้งค่าหน้ากระดาษก่อนจะมีข้อความแจ้งเตือน Please Change Paper Size to A4
+   กรณีไม่ได้ตั้งค่าหน้ากระดาษก่อนจะมีข้อความแจ้งเตือน iThesis Error พร้อมกับคำแนะนำในการตั้งค่าหน้ากระดาษก่อน Generate template
 
    .. figure:: /images/gen02.png
         :align: center

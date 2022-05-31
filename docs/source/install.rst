@@ -1,4 +1,4 @@
-การติดตั้ง iThesis Web Add-in
+การติดตั้ง iThesis Office Add-in
 ==========================
 
 #. เปิด Microsoft Word เลือกที่แถบเครื่องมือ Insert
@@ -21,7 +21,7 @@
     .. figure:: /images/install03.png
         :align: center
 
-#. จะพบกับหน้าจอแนะนำคุณสมบัติของ iThesis Web Add-in กดที่ลูกศรด้านขวาเพื่อเลื่อนไปข้างหน้า จากนั้นกด Get Started เพื่อเริ่มต้นใช้งาน
+#. จะพบกับหน้าจอแนะนำคุณสมบัติของ iThesis Office Add-in กดที่ลูกศรด้านขวาเพื่อเลื่อนไปข้างหน้า จากนั้นกด Get Started เพื่อเริ่มต้นใช้งาน
 
     .. figure:: /images/install04.png
         :align: center

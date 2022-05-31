@@ -12,7 +12,7 @@ Contents
 --------
 
 .. toctree::
-   :caption: iThesis Web Addin
+   :caption: iThesis Office Addin
    :maxdepth: 2
  
    webaddin
@@ -26,6 +26,7 @@ Contents
    profile_menu
    review
    feedback
+   font
 
 .. toctree::
    :caption: Power BI
