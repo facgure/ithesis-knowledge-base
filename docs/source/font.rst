@@ -2,7 +2,7 @@
 =================
 
 โดยส่วนมากรูปแบบอักษรที่นิยมใช้ในการเขียนเล่มวิทยานิพนธ์ คือ TH Sarabun New ซึ่งไม่ใช่รูปแบบอักษรที่มีให้ใช้ใน Microsoft Word จำเป็นต้องดาวน์โหลดมาติดตั้งในคอมพิวเตอร์ก่อนใช้งานสร้างรูปเล่มวิทยานิพนธ์ผ่าน iThesis Office Add-in
-สามารถดาวน์โหลดได้จาก `ที่นี่ <https://github.com/facgure/ithesis-knowledge-base/blob/main/docs/source/Font/THSarabunNew.zip>`_
+สามารถดาวน์โหลดได้จาก `ที่นี่ <https://github.com/facgure/ithesis-knowledge-base/blob/main/Font/THSarabunNew.zip>`_
 
 
 
