@@ -6,14 +6,14 @@ iThesis Office Add-in คืออะไร
 
 โปรแกรมที่ติดตั้งบน Microsoft Word สามารถสร้างรูปเล่มวิทยานิพนธ์ ตรวจสอบรูปแบบ และบันทึกไฟล์เข้าสู่ระบบไอทีสิส โดยสามารถติดตั้งได้หลายระบบปฏิบัติการ ที่รองรับการใช้งาน office add-in ที่สามารถดาวน์โหลดได้จาก Microsoft Office Store ​
 
-.. figure:: /images/web01.png
+.. figure:: 
    :width: 80%
    :align: center
    :alt: image 01
 
    image 01
 
-.. figure:: /images/web02.png
+.. figure:: 
    :width: 80%
    :align: center
    :alt: image 02
