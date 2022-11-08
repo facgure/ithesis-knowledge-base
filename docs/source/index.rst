@@ -22,6 +22,7 @@ Contents
    setting_committee
    styles
    update
+   save_to_cloud
    knowledge_base
    profile_menu
    review
