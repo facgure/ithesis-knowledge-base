@@ -21,6 +21,13 @@ Generate Template
    .. figure:: /images/gen02.png
         :align: center
 
+การเลือกภาษาเมื่อ Generate Template ครั้งแรก
+--------------------------------------
+เมื่อ Generate Template ครั้งแรก, จะมีหน้าต่าง pop-up ปรากฏขึ้นเพื่อเลือกภาษาในการเขียนเล่ม
+
+.. figure:: /images/gen06.png
+    :align: center
+
 การสร้างรูปเล่มวิทยานิพนธ์ Generate Template
 --------------------------------------
 
